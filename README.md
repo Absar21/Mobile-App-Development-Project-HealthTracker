@@ -11,7 +11,7 @@ A comprehensive mobile app designed to help users track their fitness, nutrition
 - AI-powered health recommendations
 
 ## Tech Stack
-- **Frontend:** Flutter
+- **Frontend:** ReactNative
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **APIs:** OpenAI for health insights
