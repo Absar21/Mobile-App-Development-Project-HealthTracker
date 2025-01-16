@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1516238893007-6dfc5fcb06bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
+![Banner](https://unsplash.com/photos/an-iphone-and-ear-buds-on-a-wooden-table-Gj3WBTtU-Ec)
 
 # HealthTracker 📱
 
