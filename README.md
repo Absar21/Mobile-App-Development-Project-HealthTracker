@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300.png?text=HealthTracker+Banner)
+![Banner](https://images.unsplash.com/photo-1516238893007-6dfc5fcb06bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
 
 # HealthTracker 📱
 
@@ -11,9 +11,9 @@ A comprehensive mobile app designed to help users track their fitness, nutrition
 - AI-powered health recommendations
 
 ## Tech Stack
-- **Frontend:** React Native
+- **Frontend:** Flutter
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **APIs:** OpenAI for health insights
 
-![App Preview](https://via.placeholder.com/800x400.png?text=HealthTracker+App)
+![App Preview](https://images.unsplash.com/photo-1599058917213-e9d8ff74a3b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080)
