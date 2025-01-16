@@ -1,3 +1,5 @@
+![Banner](https://via.placeholder.com/1200x300.png?text=HealthTracker+Banner)
+
 # HealthTracker 📱
 
 A comprehensive mobile app designed to help users track their fitness, nutrition, and health goals. This app features a calorie counter, workout tracker, and personalized health insights.
@@ -9,10 +11,9 @@ A comprehensive mobile app designed to help users track their fitness, nutrition
 - AI-powered health recommendations
 
 ## Tech Stack
-- **Frontend:** Flutter
+- **Frontend:** React Native
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **APIs:** OpenAI for health insights
 
-![HealthTracker](https://via.placeholder.com/800x400.png?text=HealthTracker+App)
-
+![App Preview](https://via.placeholder.com/800x400.png?text=HealthTracker+App)
