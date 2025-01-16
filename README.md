@@ -1,4 +1,4 @@
-![Banner](https://unsplash.com/photos/an-iphone-and-ear-buds-on-a-wooden-table-Gj3WBTtU-Ec)
+![Banner](https://github.com/Absar21/Mobile-App-Development-Project-HealthTracker/blob/main/mindfulness-com-Gj3WBTtU-Ec-unsplash.jpg)
 
 # HealthTracker 📱
 
